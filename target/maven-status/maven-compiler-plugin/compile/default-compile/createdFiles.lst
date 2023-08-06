@@ -13,6 +13,7 @@ com\mycompany\selenium_testing\WebElements_java.class
 com\mycompany\selenium_testing\DemoiFrame.class
 com\mycompany\selenium_testing\Contains_Key.class
 com\mycompany\selenium_testing\AutoSuggestion.class
+com\mycompany\selenium_testing\Resizable_Elements.class
 com\mycompany\selenium_testing\DropDown.class
 com\mycompany\selenium_testing\CheckBox.class
 com\mycompany\selenium_testing\Combo_Selenium.class
