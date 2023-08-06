@@ -4,6 +4,7 @@ com\mycompany\selenium_testing\MouseHoverHandling.class
 com\mycompany\selenium_testing\MySeleniumTest.class
 com\mycompany\selenium_testing\PrintAllLinks.class
 com\mycompany\selenium_testing\Selenium_below.class
+com\mycompany\selenium_testing\Achyut_Master_DONE.class
 com\mycompany\selenium_testing\Locators.class
 com\mycompany\selenium_testing\Relative_locator.class
 com\mycompany\selenium_testing\WebDriver_Test.class
@@ -15,5 +16,6 @@ com\mycompany\selenium_testing\AutoSuggestion.class
 com\mycompany\selenium_testing\DropDown.class
 com\mycompany\selenium_testing\CheckBox.class
 com\mycompany\selenium_testing\Combo_Selenium.class
+com\mycompany\selenium_testing\Drag_and_Drop.class
 com\mycompany\selenium_testing\WebDriver_Methods.class
 com\mycompany\selenium_testing\Option_Print.class
